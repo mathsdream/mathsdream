@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mathsdream/mathsdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是mathsdream，目前是一名T大化工专业在读研究生。
+
+热爱数学，曾经梦想去学习数学，故取此名，然奈何实力不足，最终来到了T大学习化工，现已完成本科学业。
+
+当前专业方向为化工系统工程，目前从事于化工非线性优化算法的开发和求解器构建。
+
+（好的，弯弯绕绕又回到数学来了，实现曲线救国）
