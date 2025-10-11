@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是mathsdream（然而我自己经常分不清是mathsdream还是mathdream）
+我是mathsdream（然而我自己经常分不清是mathsdream还是mathdream）(全网不同名）
+
 目前是一名T大化工专业在读研究生。
 
 热爱数学，曾经梦想去学习数学，故取此名，然奈何实力不足，最终来到了T大学习化工。
