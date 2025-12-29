@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是mathsdream（然而我自己经常分不清是mathsdream还是mathdream）(全网不同名）
+我是mathsdream (全网不同名）
 
 目前是一名T大化工专业在读研究生。
 
